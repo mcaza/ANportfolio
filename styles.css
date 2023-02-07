@@ -275,6 +275,10 @@ nav a:hover {
     width: auto;
 }
 
+.characters .photo img:hover {
+    height: 31rem;
+    width: auto;
+}
 
 /* Convention Dates Styles*/
 
