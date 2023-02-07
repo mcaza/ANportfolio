@@ -275,7 +275,7 @@ nav a:hover {
     width: auto;
 }
 
-.characters .photo img:hover {
+.characters img:hover {
     height: 31rem;
     width: auto;
 }
