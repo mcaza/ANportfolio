@@ -1,5 +1,5 @@
 /* Font Imports */
- 
+
 @font-face {
   font-family: 'Karla';
   font-style: italic;
@@ -263,32 +263,6 @@ nav a:hover {
     padding-top: 1rem;
     padding-bottom: 1rem;
 }
-
-.photoRow a {
-    font-size: 3rem;
-    font-weight: 600;
-    padding-bottom: 2rem;
-    padding-top: .4rem;
-}
-
-button {
-    border-radius: 10px;
-    height: 6rem;
-    width: 44rem;
-    background-color: white;
-    font-family: karla;
-    font-size: 2.8rem;
-    border: none;
-    font-weight: 400;
-}
-
-button:hover {
-    border: 5px solid pink;
-    height: 6.5rem;
-    width: 44.5rem;
-    font-weight: 500;
-}
-
 
 /* Character Styles */
 
